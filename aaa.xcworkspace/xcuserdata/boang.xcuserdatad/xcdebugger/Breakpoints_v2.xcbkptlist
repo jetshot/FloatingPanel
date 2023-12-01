@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C3003EB4-AD88-4A21-B1DD-96628B5BE1E9"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "71BA53BD-A6D4-4F5E-892A-EA4A72C496F7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "aaa/NCCommentModalViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "keyboardWillShowNotification(notification:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "71BA53BD-A6D4-4F5E-892A-EA4A72C496F7 - 85ca80bba91e5b07"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "aaa.NCCommentModalViewController.keyboardWillShowNotification(notification: Foundation.Notification) -&gt; ()"
+                  moduleName = "aaa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/boang/Desktop/aaa/aaa/NCCommentModalViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "804">
+               </Location>
+               <Location
+                  uuid = "71BA53BD-A6D4-4F5E-892A-EA4A72C496F7 - 85ca80bba91e5b07"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "aaa.NCCommentModalViewController.keyboardWillShowNotification(notification: Foundation.Notification) -&gt; ()"
+                  moduleName = "aaa"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/boang/Desktop/aaa/aaa/NCCommentModalViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "840">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
